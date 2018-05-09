@@ -1,0 +1,658 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 629
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_foliage (832.00 -2744.00 -24.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12544.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13056.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13312.0 1536.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (75777 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 911 texinfos to 481
+Reduced 75 texdatas to 60 (2821 bytes to 2241)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+LoadPortals: couldn't read c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 629
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_foliage (832.00 -2744.00 -24.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12544.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13056.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13312.0 1536.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (75777 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 911 texinfos to 481
+Reduced 75 texdatas to 60 (2821 bytes to 2241)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+LoadPortals: couldn't read c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 629
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_foliage (832.00 -2744.00 -24.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12544.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13056.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13312.0 1536.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (75777 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 911 texinfos to 481
+Reduced 75 texdatas to 60 (2821 bytes to 2241)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+LoadPortals: couldn't read c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 630
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 822 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (451471 bytes)
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4006 texinfos to 2151
+Reduced 262 texdatas to 199 (11219 bytes to 9049)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+9 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2852 portalclusters
+8516 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 630
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 822 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (451471 bytes)
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4006 texinfos to 2151
+Reduced 262 texdatas to 199 (11219 bytes to 9049)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+9 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2852 portalclusters
+8516 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 90143 visible clusters (0.00%)
+Total clusters visible: 3762113
+Average clusters visible: 1319
+Building PAS...
+Average clusters audible: 2539
+visdatasize:1557522  compressed from 2053440
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8220 faces
+7922513 square feet [1140841856.00 square inches]
+960 Displacements
+3026113 Square Feet [435760256.00 Square Inches]
+8220 patches before subdivision
+92064 patches after subdivision
+58 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6625162, max 868
+transfer lists:  50.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(152878, 145981, 94614)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(20306, 16554, 8155)
+Build Patch/Sample Hash Table(s).....Done<0.0472 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  59/1024         2832/49152    ( 5.8%) 
+brushes               1231/8192        14772/98304    (15.0%) 
+brushsides            9372/65536       74976/524288   (14.3%) 
+planes                7720/65536      154400/1310720  (11.8%) 
+vertexes             14702/65536      176424/786432   (22.4%) 
+nodes                 5139/65536      164448/2097152  ( 7.8%) 
+texinfos              2151/12288      154872/884736   (17.5%) 
+texdata                199/2048         6368/65536    ( 9.7%) 
+dispinfos              960/0          168960/0        ( 0.0%) 
+disp_verts           52392/0         1047840/0        ( 0.0%) 
+disp_tris            79392/0          158784/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1513880/0         1513880/0        ( 0.0%) 
+faces                 8220/65536      460320/3670016  (12.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4443/65536      248808/3670016  ( 6.8%) 
+facebrushes            506/0            1012/0        ( 0.0%) 
+facebrushlists        8220/0           32880/0        ( 0.0%) 
+leaves                5199/65536      166368/2097152  ( 7.9%) 
+leaffaces            10724/65536       21448/131072   (16.4%) 
+leafbrushes           7012/65536       14024/131072   (10.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            57227/512000     228908/2048000  (11.2%) 
+edges                36030/256000     144120/1024000  (14.1%) 
+LDR worldlights         58/8192         5800/819200   ( 0.7%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1009/32768       10090/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20103/65536       40206/131072   (30.7%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                17/1024         5984/360448   ( 1.7%) 
+LDR lightdata         [variable]    11727624/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1557522/16777216 ( 9.3%) 
+entdata               [variable]      182857/393216   (46.5%) 
+LDR ambient table     5199/65536       20796/262144   ( 7.9%) 
+HDR ambient table     5199/65536       20796/262144   ( 7.9%) 
+LDR leaf ambient     35083/65536      982324/1835008  (53.5%) 
+HDR leaf ambient      5199/65536      145572/1835008  ( 7.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/166244   ( 0.0%) 
+pakfile               [variable]       61484/0        ( 0.0%) 
+physics               [variable]      451471/4194304  (10.8%) 
+physics terrain       [variable]      205876/1048576  (19.6%) 
+
+Level flags = 4
+
+Total triangle count: 23041
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+3 minutes, 4 seconds elapsed

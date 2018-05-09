@@ -1,0 +1,2811 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 629
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_foliage (832.00 -2744.00 -24.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12544.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13056.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13312.0 1536.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (75777 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 911 texinfos to 481
+Reduced 75 texdatas to 60 (2821 bytes to 2241)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+LoadPortals: couldn't read c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 629
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_foliage (832.00 -2744.00 -24.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12544.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13056.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13312.0 1536.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (75777 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 911 texinfos to 481
+Reduced 75 texdatas to 60 (2821 bytes to 2241)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+LoadPortals: couldn't read c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 629
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_foliage (832.00 -2744.00 -24.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12544.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13056.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13312.0 1536.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 -368.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 1024.0 480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 2048.0 256.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 46 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (75777 bytes)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 911 texinfos to 481
+Reduced 75 texdatas to 60 (2821 bytes to 2241)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+LoadPortals: couldn't read c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 630
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 822 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (451471 bytes)
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4006 texinfos to 2151
+Reduced 262 texdatas to 199 (11219 bytes to 9049)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+9 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2852 portalclusters
+8516 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 630
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 822 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (451471 bytes)
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4006 texinfos to 2151
+Reduced 262 texdatas to 199 (11219 bytes to 9049)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+9 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2852 portalclusters
+8516 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 90143 visible clusters (0.00%)
+Total clusters visible: 3762113
+Average clusters visible: 1319
+Building PAS...
+Average clusters audible: 2539
+visdatasize:1557522  compressed from 2053440
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8220 faces
+7922513 square feet [1140841856.00 square inches]
+960 Displacements
+3026113 Square Feet [435760256.00 Square Inches]
+8220 patches before subdivision
+92064 patches after subdivision
+58 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6625162, max 868
+transfer lists:  50.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(152878, 145981, 94614)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(20306, 16554, 8155)
+Build Patch/Sample Hash Table(s).....Done<0.0472 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  59/1024         2832/49152    ( 5.8%) 
+brushes               1231/8192        14772/98304    (15.0%) 
+brushsides            9372/65536       74976/524288   (14.3%) 
+planes                7720/65536      154400/1310720  (11.8%) 
+vertexes             14702/65536      176424/786432   (22.4%) 
+nodes                 5139/65536      164448/2097152  ( 7.8%) 
+texinfos              2151/12288      154872/884736   (17.5%) 
+texdata                199/2048         6368/65536    ( 9.7%) 
+dispinfos              960/0          168960/0        ( 0.0%) 
+disp_verts           52392/0         1047840/0        ( 0.0%) 
+disp_tris            79392/0          158784/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1513880/0         1513880/0        ( 0.0%) 
+faces                 8220/65536      460320/3670016  (12.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4443/65536      248808/3670016  ( 6.8%) 
+facebrushes            506/0            1012/0        ( 0.0%) 
+facebrushlists        8220/0           32880/0        ( 0.0%) 
+leaves                5199/65536      166368/2097152  ( 7.9%) 
+leaffaces            10724/65536       21448/131072   (16.4%) 
+leafbrushes           7012/65536       14024/131072   (10.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            57227/512000     228908/2048000  (11.2%) 
+edges                36030/256000     144120/1024000  (14.1%) 
+LDR worldlights         58/8192         5800/819200   ( 0.7%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1009/32768       10090/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20103/65536       40206/131072   (30.7%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                17/1024         5984/360448   ( 1.7%) 
+LDR lightdata         [variable]    11727624/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1557522/16777216 ( 9.3%) 
+entdata               [variable]      182857/393216   (46.5%) 
+LDR ambient table     5199/65536       20796/262144   ( 7.9%) 
+HDR ambient table     5199/65536       20796/262144   ( 7.9%) 
+LDR leaf ambient     35083/65536      982324/1835008  (53.5%) 
+HDR leaf ambient      5199/65536      145572/1835008  ( 7.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/166244   ( 0.0%) 
+pakfile               [variable]       61484/0        ( 0.0%) 
+physics               [variable]      451471/4194304  (10.8%) 
+physics terrain       [variable]      205876/1048576  (19.6%) 
+
+Level flags = 4
+
+Total triangle count: 23041
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+3 minutes, 4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 637
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Brush 326553: FloatPlane: bad normal
+Side 4
+Texture: TOOLS/TOOLSNODRAW
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 638
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Brush 326553: FloatPlane: bad normal
+Side 4
+Texture: TOOLS/TOOLSNODRAW
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 639
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 814 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (415975 bytes)
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3305 texinfos to 1992
+Reduced 153 texdatas to 131 (4915 bytes to 3932)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+1737 portalclusters
+5448 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 19177 visible clusters (0.00%)
+Total clusters visible: 1586764
+Average clusters visible: 913
+Building PAS...
+Average clusters audible: 1570
+visdatasize:612448  compressed from 778176
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+7451 faces
+7458056 square feet [1073960064.00 square inches]
+960 Displacements
+3026113 Square Feet [435760256.00 Square Inches]
+7451 patches before subdivision
+91487 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6331786, max 855
+transfer lists:  48.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(160671, 153207, 98163)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22857, 18848, 9220)
+Build Patch/Sample Hash Table(s).....Done<0.0482 sec>
+0...1...2...3
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 640
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 822 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (452614 bytes)
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4001 texinfos to 2158
+Reduced 262 texdatas to 201 (11191 bytes to 9109)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+9 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2852 portalclusters
+8516 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 90143 visible clusters (0.00%)
+Total clusters visible: 3762113
+Average clusters visible: 1319
+Building PAS...
+Average clusters audible: 2539
+visdatasize:1557522  compressed from 2053440
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8230 faces
+7922664 square feet [1140863616.00 square inches]
+960 Displacements
+3026113 Square Feet [435760256.00 Square Inches]
+8230 patches before subdivision
+92130 patches after subdivision
+59 direct lights
+0...1...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 643
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 822 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (454042 bytes)
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4015 texinfos to 2164
+Reduced 262 texdatas to 201 (11191 bytes to 9109)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+9 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2852 portalclusters
+8516 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 90143 visible clusters (0.00%)
+Total clusters visible: 3762113
+Average clusters visible: 1319
+Building PAS...
+Average clusters audible: 2539
+visdatasize:1557522  compressed from 2053440
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8242 faces
+7948594 square feet [1144597632.00 square inches]
+960 Displacements
+3026113 Square Feet [435760256.00 Square Inches]
+8242 patches before subdivision
+92142 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6633928, max 871
+transfer lists:  50.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(161442, 153957, 98810)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22808, 18820, 9204)
+Build Patch/Sample Hash Table(s).....Done<0.0469 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  64/1024         3072/49152    ( 6.3%) 
+brushes               1236/8192        14832/98304    (15.1%) 
+brushsides            9406/65536       75248/524288   (14.4%) 
+planes                7768/65536      155360/1310720  (11.9%) 
+vertexes             14738/65536      176856/786432   (22.5%) 
+nodes                 5167/65536      165344/2097152  ( 7.9%) 
+texinfos              2164/12288      155808/884736   (17.6%) 
+texdata                201/2048         6432/65536    ( 9.8%) 
+dispinfos              960/0          168960/0        ( 0.0%) 
+disp_verts           52392/0         1047840/0        ( 0.0%) 
+disp_tris            79392/0          158784/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1513880/0         1513880/0        ( 0.0%) 
+faces                 8242/65536      461552/3670016  (12.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4465/65536      250040/3670016  ( 6.8%) 
+facebrushes            506/0            1012/0        ( 0.0%) 
+facebrushlists        8242/0           32968/0        ( 0.0%) 
+leaves                5232/65536      167424/2097152  ( 8.0%) 
+leaffaces            10746/65536       21492/131072   (16.4%) 
+leafbrushes           7017/65536       14034/131072   (10.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            57403/512000     229612/2048000  (11.2%) 
+edges                36130/256000     144520/1024000  (14.1%) 
+LDR worldlights         59/8192         5900/819200   ( 0.7%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1009/32768       10090/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20103/65536       40206/131072   (30.7%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                17/1024         5984/360448   ( 1.7%) 
+LDR lightdata         [variable]    11727684/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1557522/16777216 ( 9.3%) 
+entdata               [variable]      198715/393216   (50.5%) 
+LDR ambient table     5232/65536       20928/262144   ( 8.0%) 
+HDR ambient table     5232/65536       20928/262144   ( 8.0%) 
+LDR leaf ambient     35151/65536      984228/1835008  (53.6%) 
+HDR leaf ambient      5232/65536      146496/1835008  ( 8.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/166330   ( 0.0%) 
+pakfile               [variable]       61088/0        ( 0.0%) 
+physics               [variable]      454042/4194304  (10.8%) 
+physics terrain       [variable]      205890/1048576  (19.6%) 
+
+Level flags = 4
+
+Total triangle count: 23085
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+3 minutes, 5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 653
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 818 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (416292 bytes)
+Error! prop_static using model "models/props_misc/german_radio.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/german_radio.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 654
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 824 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (454045 bytes)
+Error! prop_static using model "models/props_misc/german_radio.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/german_radio.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4022 texinfos to 2163
+Reduced 263 texdatas to 202 (11219 bytes to 9136)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+9 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2852 portalclusters
+8516 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 90143 visible clusters (0.00%)
+Total clusters visible: 3762113
+Average clusters visible: 1319
+Building PAS...
+Average clusters audible: 2539
+visdatasize:1557522  compressed from 2053440
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8235 faces
+7948492 square feet [1144582912.00 square inches]
+960 Displacements
+3026113 Square Feet [435760256.00 Square Inches]
+8235 patches before subdivision
+92129 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6668261, max 869
+transfer lists:  50.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(162185, 154669, 99136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22759, 18769, 9174)
+Build Patch/Sample Hash Table(s).....Done<0.0488 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  64/1024         3072/49152    ( 6.3%) 
+brushes               1236/8192        14832/98304    (15.1%) 
+brushsides            9402/65536       75216/524288   (14.3%) 
+planes                7760/65536      155200/1310720  (11.8%) 
+vertexes             14736/65536      176832/786432   (22.5%) 
+nodes                 5167/65536      165344/2097152  ( 7.9%) 
+texinfos              2163/12288      155736/884736   (17.6%) 
+texdata                202/2048         6464/65536    ( 9.9%) 
+dispinfos              960/0          168960/0        ( 0.0%) 
+disp_verts           52392/0         1047840/0        ( 0.0%) 
+disp_tris            79392/0          158784/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1513880/0         1513880/0        ( 0.0%) 
+faces                 8235/65536      461160/3670016  (12.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4459/65536      249704/3670016  ( 6.8%) 
+facebrushes            504/0            1008/0        ( 0.0%) 
+facebrushlists        8235/0           32940/0        ( 0.0%) 
+leaves                5232/65536      167424/2097152  ( 8.0%) 
+leaffaces            10739/65536       21478/131072   (16.4%) 
+leafbrushes           7006/65536       14012/131072   (10.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            57348/512000     229392/2048000  (11.2%) 
+edges                36102/256000     144408/1024000  (14.1%) 
+LDR worldlights         59/8192         5900/819200   ( 0.7%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1006/32768       10060/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20061/65536       40122/131072   (30.6%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                18/1024         6336/360448   ( 1.8%) 
+LDR lightdata         [variable]    11727624/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1557522/16777216 ( 9.3%) 
+entdata               [variable]      204356/393216   (52.0%) 
+LDR ambient table     5232/65536       20928/262144   ( 8.0%) 
+HDR ambient table     5232/65536       20928/262144   ( 8.0%) 
+LDR leaf ambient     35154/65536      984312/1835008  (53.6%) 
+HDR leaf ambient      5232/65536      146496/1835008  ( 8.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/166756   ( 0.0%) 
+pakfile               [variable]       61088/0        ( 0.0%) 
+physics               [variable]      454045/4194304  (10.8%) 
+physics terrain       [variable]      205890/1048576  (19.6%) 
+
+Level flags = 4
+
+Total triangle count: 23068
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+3 minutes, 3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 655
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 824 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (454045 bytes)
+Error! To use model "models/characters/backpack_radio_brit.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/backpack_radio_brit.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4022 texinfos to 2163
+Reduced 263 texdatas to 202 (11219 bytes to 9136)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+11 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2852 portalclusters
+8516 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 90143 visible clusters (0.00%)
+Total clusters visible: 3762113
+Average clusters visible: 1319
+Building PAS...
+Average clusters audible: 2539
+visdatasize:1557522  compressed from 2053440
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8235 faces
+7948492 square feet [1144582912.00 square inches]
+960 Displacements
+3026113 Square Feet [435760256.00 Square Inches]
+8235 patches before subdivision
+92129 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6668261, max 869
+transfer lists:  50.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(162185, 154669, 99136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22759, 18769, 9174)
+Build Patch/Sample Hash Table(s).....Done<0.0483 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  64/1024         3072/49152    ( 6.3%) 
+brushes               1236/8192        14832/98304    (15.1%) 
+brushsides            9402/65536       75216/524288   (14.3%) 
+planes                7760/65536      155200/1310720  (11.8%) 
+vertexes             14736/65536      176832/786432   (22.5%) 
+nodes                 5167/65536      165344/2097152  ( 7.9%) 
+texinfos              2163/12288      155736/884736   (17.6%) 
+texdata                202/2048         6464/65536    ( 9.9%) 
+dispinfos              960/0          168960/0        ( 0.0%) 
+disp_verts           52392/0         1047840/0        ( 0.0%) 
+disp_tris            79392/0          158784/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1513880/0         1513880/0        ( 0.0%) 
+faces                 8235/65536      461160/3670016  (12.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4459/65536      249704/3670016  ( 6.8%) 
+facebrushes            504/0            1008/0        ( 0.0%) 
+facebrushlists        8235/0           32940/0        ( 0.0%) 
+leaves                5232/65536      167424/2097152  ( 8.0%) 
+leaffaces            10739/65536       21478/131072   (16.4%) 
+leafbrushes           7006/65536       14012/131072   (10.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            57348/512000     229392/2048000  (11.2%) 
+edges                36102/256000     144408/1024000  (14.1%) 
+LDR worldlights         59/8192         5900/819200   ( 0.7%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1006/32768       10060/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20061/65536       40122/131072   (30.6%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                18/1024         6336/360448   ( 1.8%) 
+LDR lightdata         [variable]    11727624/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1557522/16777216 ( 9.3%) 
+entdata               [variable]      204355/393216   (52.0%) 
+LDR ambient table     5232/65536       20928/262144   ( 8.0%) 
+HDR ambient table     5232/65536       20928/262144   ( 8.0%) 
+LDR leaf ambient     35154/65536      984312/1835008  (53.6%) 
+HDR leaf ambient      5232/65536      146496/1835008  ( 8.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/166756   ( 0.0%) 
+pakfile               [variable]       61088/0        ( 0.0%) 
+physics               [variable]      454045/4194304  (10.8%) 
+physics terrain       [variable]      205890/1048576  (19.6%) 
+
+Level flags = 4
+
+Total triangle count: 23068
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+2 minutes, 58 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 656
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 824 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (454045 bytes)
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4022 texinfos to 2163
+Reduced 263 texdatas to 202 (11219 bytes to 9136)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+10 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2852 portalclusters
+8516 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 90143 visible clusters (0.00%)
+Total clusters visible: 3762113
+Average clusters visible: 1319
+Building PAS...
+Average clusters audible: 2539
+visdatasize:1557522  compressed from 2053440
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8235 faces
+7948492 square feet [1144582912.00 square inches]
+960 Displacements
+3026113 Square Feet [435760256.00 Square Inches]
+8235 patches before subdivision
+92129 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6668261, max 869
+transfer lists:  50.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(162185, 154669, 99136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22759, 18769, 9174)
+Build Patch/Sample Hash Table(s).....Done<0.0470 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  64/1024         3072/49152    ( 6.3%) 
+brushes               1236/8192        14832/98304    (15.1%) 
+brushsides            9402/65536       75216/524288   (14.3%) 
+planes                7760/65536      155200/1310720  (11.8%) 
+vertexes             14736/65536      176832/786432   (22.5%) 
+nodes                 5167/65536      165344/2097152  ( 7.9%) 
+texinfos              2163/12288      155736/884736   (17.6%) 
+texdata                202/2048         6464/65536    ( 9.9%) 
+dispinfos              960/0          168960/0        ( 0.0%) 
+disp_verts           52392/0         1047840/0        ( 0.0%) 
+disp_tris            79392/0          158784/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1513880/0         1513880/0        ( 0.0%) 
+faces                 8235/65536      461160/3670016  (12.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4459/65536      249704/3670016  ( 6.8%) 
+facebrushes            504/0            1008/0        ( 0.0%) 
+facebrushlists        8235/0           32940/0        ( 0.0%) 
+leaves                5232/65536      167424/2097152  ( 8.0%) 
+leaffaces            10739/65536       21478/131072   (16.4%) 
+leafbrushes           7006/65536       14012/131072   (10.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            57348/512000     229392/2048000  (11.2%) 
+edges                36102/256000     144408/1024000  (14.1%) 
+LDR worldlights         59/8192         5900/819200   ( 0.7%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1006/32768       10060/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20061/65536       40122/131072   (30.6%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                18/1024         6336/360448   ( 1.8%) 
+LDR lightdata         [variable]    11727624/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1557522/16777216 ( 9.3%) 
+entdata               [variable]      203987/393216   (51.9%) 
+LDR ambient table     5232/65536       20928/262144   ( 8.0%) 
+HDR ambient table     5232/65536       20928/262144   ( 8.0%) 
+LDR leaf ambient     35154/65536      984312/1835008  (53.6%) 
+HDR leaf ambient      5232/65536      146496/1835008  ( 8.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/166756   ( 0.0%) 
+pakfile               [variable]       61088/0        ( 0.0%) 
+physics               [variable]      454045/4194304  (10.8%) 
+physics terrain       [variable]      205890/1048576  (19.6%) 
+
+Level flags = 4
+
+Total triangle count: 23068
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+2 minutes, 57 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 658
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 658
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 818 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (432660 bytes)
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3942 texinfos to 2160
+Reduced 259 texdatas to 199 (11149 bytes to 9088)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+12 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+1740 portalclusters
+5456 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 19227 visible clusters (0.00%)
+Total clusters visible: 1587319
+Average clusters visible: 912
+Building PAS...
+Average clusters audible: 1570
+visdatasize:611154  compressed from 779520
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+7616 faces
+7960644 square feet [1146332800.00 square inches]
+960 Displacements
+3026113 Square Feet [435760256.00 Square Inches]
+7616 patches before subdivision
+91642 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6355942, max 853
+transfer lists:  48.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(161858, 154446, 99017)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22843, 18832, 9208)
+Build Patch/Sample Hash Table(s).....Done<0.0470 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  64/1024         3072/49152    ( 6.3%) 
+brushes               1199/8192        14388/98304    (14.6%) 
+brushsides            8930/65536       71440/524288   (13.6%) 
+planes                7156/65536      143120/1310720  (10.9%) 
+vertexes             13887/65536      166644/786432   (21.2%) 
+nodes                 3657/65536      117024/2097152  ( 5.6%) 
+texinfos              2160/12288      155520/884736   (17.6%) 
+texdata                199/2048         6368/65536    ( 9.7%) 
+dispinfos              960/0          168960/0        ( 0.0%) 
+disp_verts           52392/0         1047840/0        ( 0.0%) 
+disp_tris            79392/0          158784/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1513880/0         1513880/0        ( 0.0%) 
+faces                 7616/65536      426496/3670016  (11.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4440/65536      248640/3670016  ( 6.8%) 
+facebrushes            458/0             916/0        ( 0.0%) 
+facebrushlists        7616/0           30464/0        ( 0.0%) 
+leaves                3722/65536      119104/2097152  ( 5.7%) 
+leaffaces             8984/65536       17968/131072   (13.7%) 
+leafbrushes           3722/65536        7444/131072   ( 5.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            54385/512000     217540/2048000  (10.6%) 
+edges                34554/256000     138216/1024000  (13.5%) 
+LDR worldlights         59/8192         5900/819200   ( 0.7%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            891/32768        8910/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18255/65536       36510/131072   (27.9%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                18/1024         6336/360448   ( 1.8%) 
+LDR lightdata         [variable]    11632072/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      611154/16777216 ( 3.6%) 
+entdata               [variable]      204137/393216   (51.9%) 
+LDR ambient table     3722/65536       14888/262144   ( 5.7%) 
+HDR ambient table     3722/65536       14888/262144   ( 5.7%) 
+LDR leaf ambient     21183/65536      593124/1835008  (32.3%) 
+HDR leaf ambient      3722/65536      104216/1835008  ( 5.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/166370   ( 0.0%) 
+pakfile               [variable]       61088/0        ( 0.0%) 
+physics               [variable]      432660/4194304  (10.3%) 
+physics terrain       [variable]      205890/1048576  (19.6%) 
+
+Level flags = 4
+
+Total triangle count: 21421
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+2 minutes, 29 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 681
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Can't find surfaceprop fabric for material MAPS/TRIM/CAMO_NETTING_01, using default
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 824 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (467864 bytes)
+Error! To use model "models/characters/german/player_german_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/german/player_german_02.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4241 texinfos to 2276
+Reduced 274 texdatas to 210 (11687 bytes to 9431)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+10 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2922 portalclusters
+8870 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 92306 visible clusters (0.00%)
+Total clusters visible: 3995808
+Average clusters visible: 1367
+Building PAS...
+Average clusters audible: 2615
+visdatasize:1644574  compressed from 2150592
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8423 faces
+7971557 square feet [1147904256.00 square inches]
+980 Displacements
+3028885 Square Feet [436159520.00 Square Inches]
+8423 patches before subdivision
+94147 patches after subdivision
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6693670, max 880
+transfer lists:  51.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(162338, 154765, 99184)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22768, 18772, 9174)
+Build Patch/Sample Hash Table(s).....Done<0.0482 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  75/1024         3600/49152    ( 7.3%) 
+brushes               1256/8192        15072/98304    (15.3%) 
+brushsides            9873/65536       78984/524288   (15.1%) 
+planes                8976/65536      179520/1310720  (13.7%) 
+vertexes             15104/65536      181248/786432   (23.0%) 
+nodes                 5329/65536      170528/2097152  ( 8.1%) 
+texinfos              2276/12288      163872/884736   (18.5%) 
+texdata                210/2048         6720/65536    (10.3%) 
+dispinfos              980/0          172480/0        ( 0.0%) 
+disp_verts           54012/0         1080240/0        ( 0.0%) 
+disp_tris            81952/0          163904/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1521960/0         1521960/0        ( 0.0%) 
+faces                 8423/65536      471688/3670016  (12.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4609/65536      258104/3670016  ( 7.0%) 
+facebrushes            501/0            1002/0        ( 0.0%) 
+facebrushlists        8423/0           33692/0        ( 0.0%) 
+leaves                5405/65536      172960/2097152  ( 8.2%) 
+leaffaces            10917/65536       21834/131072   (16.7%) 
+leafbrushes           7005/65536       14010/131072   (10.7%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            58865/512000     235460/2048000  (11.5%) 
+edges                36923/256000     147692/1024000  (14.4%) 
+LDR worldlights         62/8192         6200/819200   ( 0.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1011/32768       10110/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20142/65536       40284/131072   (30.7%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                39/1024        13728/360448   ( 3.8%) 
+LDR lightdata         [variable]    11805960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1644574/16777216 ( 9.8%) 
+entdata               [variable]      218199/393216   (55.5%) 
+LDR ambient table     5405/65536       21620/262144   ( 8.2%) 
+HDR ambient table     5405/65536       21620/262144   ( 8.2%) 
+LDR leaf ambient     35858/65536     1004024/1835008  (54.7%) 
+HDR leaf ambient      5405/65536      151340/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/179708   ( 0.0%) 
+pakfile               [variable]       63938/0        ( 0.0%) 
+physics               [variable]      467864/4194304  (11.2%) 
+physics terrain       [variable]      212830/1048576  (20.3%) 
+
+Level flags = 4
+
+Total triangle count: 23525
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+3 minutes, 14 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 688
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Can't find surfaceprop fabric for material MAPS/TRIM/CAMO_NETTING_01, using default
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 814 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (471454 bytes)
+Error! To use model "models/characters/german/player_german_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/german/player_german_02.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4248 texinfos to 2272
+Reduced 277 texdatas to 213 (11790 bytes to 9534)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+12 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2916 portalclusters
+8839 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 92453 visible clusters (0.00%)
+Total clusters visible: 3976239
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 2610
+visdatasize:1638614  compressed from 2146176
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8438 faces
+1 degenerate faces
+7971467 square feet [1147891328.00 square inches]
+980 Displacements
+3028885 Square Feet [436159520.00 Square Inches]
+8437 patches before subdivision
+94229 patches after subdivision
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6698634, max 876
+transfer lists:  51.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(162168, 154531, 98947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22770, 18777, 9183)
+Build Patch/Sample Hash Table(s).....Done<0.0474 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes               1261/8192        15132/98304    (15.4%) 
+brushsides            9915/65536       79320/524288   (15.1%) 
+planes                9068/65536      181360/1310720  (13.8%) 
+vertexes             15113/65536      181356/786432   (23.1%) 
+nodes                 5311/65536      169952/2097152  ( 8.1%) 
+texinfos              2272/12288      163584/884736   (18.5%) 
+texdata                213/2048         6816/65536    (10.4%) 
+dispinfos              980/0          172480/0        ( 0.0%) 
+disp_verts           54012/0         1080240/0        ( 0.0%) 
+disp_tris            81952/0          163904/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1521960/0         1521960/0        ( 0.0%) 
+faces                 8438/65536      472528/3670016  (12.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4621/65536      258776/3670016  ( 7.1%) 
+facebrushes            498/0             996/0        ( 0.0%) 
+facebrushlists        8438/0           33752/0        ( 0.0%) 
+leaves                5386/65536      172352/2097152  ( 8.2%) 
+leaffaces            11206/65536       22412/131072   (17.1%) 
+leafbrushes           7094/65536       14188/131072   (10.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            58953/512000     235812/2048000  (11.5%) 
+edges                37007/256000     148028/1024000  (14.5%) 
+LDR worldlights         62/8192         6200/819200   ( 0.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1007/32768       10070/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20049/65536       40098/131072   (30.6%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                40/1024        14080/360448   ( 3.9%) 
+LDR lightdata         [variable]    11799080/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1638614/16777216 ( 9.8%) 
+entdata               [variable]      219061/393216   (55.7%) 
+LDR ambient table     5386/65536       21544/262144   ( 8.2%) 
+HDR ambient table     5386/65536       21544/262144   ( 8.2%) 
+LDR leaf ambient     35727/65536     1000356/1835008  (54.5%) 
+HDR leaf ambient      5386/65536      150808/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/182202   ( 0.0%) 
+pakfile               [variable]       63938/0        ( 0.0%) 
+physics               [variable]      471454/4194304  (11.2%) 
+physics terrain       [variable]      212872/1048576  (20.3%) 
+
+Level flags = 4
+
+Total triangle count: 23535
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+3 minutes, 11 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 691
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Can't find surfaceprop fabric for material MAPS/TRIM/CAMO_NETTING_01, using default
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 812 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (478139 bytes)
+Error! To use model "models/characters/german/player_german_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/german/player_german_02.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4287 texinfos to 2298
+Reduced 278 texdatas to 214 (11812 bytes to 9556)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+10 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+3016 portalclusters
+9213 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 95628 visible clusters (0.00%)
+Total clusters visible: 3930022
+Average clusters visible: 1303
+Building PAS...
+Average clusters audible: 2650
+visdatasize:1704786  compressed from 2316288
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8678 faces
+1 degenerate faces
+8098152 square feet [1166133888.00 square inches]
+980 Displacements
+3028885 Square Feet [436159520.00 Square Inches]
+8677 patches before subdivision
+94271 patches after subdivision
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6533611, max 790
+transfer lists:  49.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(162186, 154303, 98501)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22758, 19393, 9444)
+Build Patch/Sample Hash Table(s).....Done<0.0482 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes               1304/8192        15648/98304    (15.9%) 
+brushsides           10173/65536       81384/524288   (15.5%) 
+planes                9048/65536      180960/1310720  (13.8%) 
+vertexes             15184/65536      182208/786432   (23.2%) 
+nodes                 5467/65536      174944/2097152  ( 8.3%) 
+texinfos              2298/12288      165456/884736   (18.7%) 
+texdata                214/2048         6848/65536    (10.4%) 
+dispinfos              980/0          172480/0        ( 0.0%) 
+disp_verts           54012/0         1080240/0        ( 0.0%) 
+disp_tris            81952/0          163904/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1521960/0         1521960/0        ( 0.0%) 
+faces                 8678/65536      485968/3670016  (13.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4818/65536      269808/3670016  ( 7.4%) 
+facebrushes            493/0             986/0        ( 0.0%) 
+facebrushlists        8678/0           34712/0        ( 0.0%) 
+leaves                5542/65536      177344/2097152  ( 8.5%) 
+leaffaces            11705/65536       23410/131072   (17.9%) 
+leafbrushes           7311/65536       14622/131072   (11.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            60923/512000     243692/2048000  (11.9%) 
+edges                38006/256000     152024/1024000  (14.8%) 
+LDR worldlights         62/8192         6200/819200   ( 0.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1056/32768       10560/327680   ( 3.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20664/65536       41328/131072   (31.5%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                40/1024        14080/360448   ( 3.9%) 
+LDR lightdata         [variable]    11495460/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1704786/16777216 (10.2%) 
+entdata               [variable]      219069/393216   (55.7%) 
+LDR ambient table     5542/65536       22168/262144   ( 8.5%) 
+HDR ambient table     5542/65536       22168/262144   ( 8.5%) 
+LDR leaf ambient     36433/65536     1020124/1835008  (55.6%) 
+HDR leaf ambient      5542/65536      155176/1835008  ( 8.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/182528   ( 0.0%) 
+pakfile               [variable]       63938/0        ( 0.0%) 
+physics               [variable]      478139/4194304  (11.4%) 
+physics terrain       [variable]      212872/1048576  (20.3%) 
+
+Level flags = 4
+
+Total triangle count: 24237
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+3 minutes, 5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 692
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Can't find surfaceprop fabric for material MAPS/TRIM/CAMO_NETTING_01, using default
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 812 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (1)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (471358 bytes)
+Error! To use model "models/characters/german/player_german_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/german/player_german_02.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4246 texinfos to 2270
+Reduced 277 texdatas to 213 (11790 bytes to 9534)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+10 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2916 portalclusters
+8836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 93178 visible clusters (0.00%)
+Total clusters visible: 3975524
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 2609
+visdatasize:1638162  compressed from 2146176
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8438 faces
+1 degenerate faces
+7972300 square feet [1148011264.00 square inches]
+980 Displacements
+3028885 Square Feet [436159520.00 Square Inches]
+8437 patches before subdivision
+94265 patches after subdivision
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6701741, max 876
+transfer lists:  51.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(162398, 154740, 99062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22800, 18797, 9191)
+Build Patch/Sample Hash Table(s).....Done<0.0491 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes               1261/8192        15132/98304    (15.4%) 
+brushsides            9915/65536       79320/524288   (15.1%) 
+planes                9046/65536      180920/1310720  (13.8%) 
+vertexes             15090/65536      181080/786432   (23.0%) 
+nodes                 5312/65536      169984/2097152  ( 8.1%) 
+texinfos              2270/12288      163440/884736   (18.5%) 
+texdata                213/2048         6816/65536    (10.4%) 
+dispinfos              980/0          172480/0        ( 0.0%) 
+disp_verts           54012/0         1080240/0        ( 0.0%) 
+disp_tris            81952/0          163904/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1521960/0         1521960/0        ( 0.0%) 
+faces                 8438/65536      472528/3670016  (12.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4618/65536      258608/3670016  ( 7.0%) 
+facebrushes            508/0            1016/0        ( 0.0%) 
+facebrushlists        8438/0           33752/0        ( 0.0%) 
+leaves                5387/65536      172384/2097152  ( 8.2%) 
+leaffaces            11205/65536       22410/131072   (17.1%) 
+leafbrushes           7092/65536       14184/131072   (10.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            58927/512000     235708/2048000  (11.5%) 
+edges                36996/256000     147984/1024000  (14.5%) 
+LDR worldlights         62/8192         6200/819200   ( 0.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1007/32768       10070/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20034/65536       40068/131072   (30.6%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                40/1024        14080/360448   ( 3.9%) 
+LDR lightdata         [variable]    11799708/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1638162/16777216 ( 9.8%) 
+entdata               [variable]      219069/393216   (55.7%) 
+LDR ambient table     5387/65536       21548/262144   ( 8.2%) 
+HDR ambient table     5387/65536       21548/262144   ( 8.2%) 
+LDR leaf ambient     35757/65536     1001196/1835008  (54.6%) 
+HDR leaf ambient      5387/65536      150836/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/182202   ( 0.0%) 
+pakfile               [variable]       63938/0        ( 0.0%) 
+physics               [variable]      471358/4194304  (11.2%) 
+physics terrain       [variable]      212872/1048576  (20.3%) 
+
+Level flags = 4
+
+Total triangle count: 23521
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+3 minutes, 4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.vmf
+Map revision 693
+Can't find surfaceprop fabric for material MAPS/DOGRED/DOI_BEACH_CAMO_B, using default
+Can't find surfaceprop fabric for material MAPS/TRIM/CAMO_NETTING_01, using default
+Error! Variable "$surfaceprop" is multiply defined in material "jakhalz/materials/brick_a2_prop"!
+ConVarRef gpu_level doesn't point to an existing ConVar
+Patching WVT material: maps/doi_pegasus/brest/outland/churchplasterblend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/brick/brick_old_small07_blend_plaster_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/road/doi_seawall_05_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/terrain/blend_stonewall_rubble_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/walls/blend_plaster_brick_02_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/comacchio/com_plaster_brick_02_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/maps/market/market_plaster_01_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/brest/metal/grate_metal2_blend_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles001_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles006_snow_wvt_patch
+Patching WVT material: maps/doi_pegasus/foy/roof/blend_shingles003_snow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 812 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (471358 bytes)
+Error! To use model "models/characters/german/player_german_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/german/player_german_02.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01c.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01c.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01d.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01d.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01b.mdl"!
+Error! prop_static using model "models/gibs/wood_gib01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/gibs/wood_gib01a.mdl"!
+Error loading studio model ""!
+Error! prop_static using model "models/props_urban/normandy_sign_pariscaen.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_urban/normandy_sign_pariscaen.mdl"!
+Error! prop_static using model "models/props_misc/mirror-1.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_misc/mirror-1.mdl"!
+Error! To use model "models/characters/american/player_american_02.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/characters/american/player_american_02.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8.
+Using default foliage group "foliagerenderingsystem" for grass materials that use unknown detail types.
+..9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4246 texinfos to 2270
+Reduced 277 texdatas to 213 (11790 bytes to 9534)
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+11 seconds elapsed
+
+
+
+12 threads
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+reading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.prt
+2916 portalclusters
+8836 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 93178 visible clusters (0.00%)
+Total clusters visible: 3975524
+Average clusters visible: 1363
+Building PAS...
+Average clusters audible: 2609
+visdatasize:1638162  compressed from 2146176
+writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[6 texlights parsed from 'lights.rad']
+
+Loading c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+8438 faces
+1 degenerate faces
+7972300 square feet [1148011264.00 square inches]
+980 Displacements
+3028885 Square Feet [436159520.00 Square Inches]
+8437 patches before subdivision
+94265 patches after subdivision
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+light has _fifty_percent_distance of 217.000000 but _zero_percent_distance of 192.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6701741, max 876
+transfer lists:  51.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(162398, 154740, 99062)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(22800, 18797, 9191)
+Build Patch/Sample Hash Table(s).....Done<0.0475 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes               1261/8192        15132/98304    (15.4%) 
+brushsides            9915/65536       79320/524288   (15.1%) 
+planes                9046/65536      180920/1310720  (13.8%) 
+vertexes             15090/65536      181080/786432   (23.0%) 
+nodes                 5312/65536      169984/2097152  ( 8.1%) 
+texinfos              2270/12288      163440/884736   (18.5%) 
+texdata                213/2048         6816/65536    (10.4%) 
+dispinfos              980/0          172480/0        ( 0.0%) 
+disp_verts           54012/0         1080240/0        ( 0.0%) 
+disp_tris            81952/0          163904/0        ( 0.0%) 
+disp_multiblend        243/0           19440/0        ( 0.0%) 
+disp_lmsamples     1521960/0         1521960/0        ( 0.0%) 
+faces                 8438/65536      472528/3670016  (12.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4618/65536      258608/3670016  ( 7.0%) 
+facebrushes            508/0            1016/0        ( 0.0%) 
+facebrushlists        8438/0           33752/0        ( 0.0%) 
+leaves                5387/65536      172384/2097152  ( 8.2%) 
+leaffaces            11205/65536       22410/131072   (17.1%) 
+leafbrushes           7092/65536       14184/131072   (10.8%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            58927/512000     235708/2048000  (11.5%) 
+edges                36996/256000     147984/1024000  (14.5%) 
+LDR worldlights         62/8192         6200/819200   ( 0.8%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1007/32768       10070/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20034/65536       40068/131072   (30.6%) 
+cubemapsamples           9/1024          144/16384    ( 0.9%) 
+overlays                40/1024        14080/360448   ( 3.9%) 
+LDR lightdata         [variable]    11799708/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1638162/16777216 ( 9.8%) 
+entdata               [variable]      219069/393216   (55.7%) 
+LDR ambient table     5387/65536       21548/262144   ( 8.2%) 
+HDR ambient table     5387/65536       21548/262144   ( 8.2%) 
+LDR leaf ambient     35757/65536     1001196/1835008  (54.6%) 
+HDR leaf ambient      5387/65536      150836/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/182202   ( 0.0%) 
+pakfile               [variable]       63938/0        ( 0.0%) 
+physics               [variable]      471358/4194304  (11.2%) 
+physics terrain       [variable]      212872/1048576  (20.3%) 
+
+Level flags = 4
+
+Total triangle count: 23521
+Writing c:\users\darkr\documents\doi_map\doi_pegasus\doi_pegasus.bsp
+3 minutes, 9 seconds elapsed
